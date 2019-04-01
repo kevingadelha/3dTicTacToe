@@ -1,0 +1,10 @@
+D:\code projects\3dTicTacToe\3dTicTacToe\bin\Debug\3dTicTacToe.exe.config
+D:\code projects\3dTicTacToe\3dTicTacToe\bin\Debug\3dTicTacToe.exe
+D:\code projects\3dTicTacToe\3dTicTacToe\bin\Debug\3dTicTacToe.pdb
+D:\code projects\3dTicTacToe\3dTicTacToe\obj\Debug\3dTicTacToe.csprojAssemblyReference.cache
+D:\code projects\3dTicTacToe\3dTicTacToe\obj\Debug\_3dTicTacToe.Form1.resources
+D:\code projects\3dTicTacToe\3dTicTacToe\obj\Debug\_3dTicTacToe.Properties.Resources.resources
+D:\code projects\3dTicTacToe\3dTicTacToe\obj\Debug\3dTicTacToe.csproj.GenerateResource.cache
+D:\code projects\3dTicTacToe\3dTicTacToe\obj\Debug\3dTicTacToe.csproj.CoreCompileInputs.cache
+D:\code projects\3dTicTacToe\3dTicTacToe\obj\Debug\3dTicTacToe.exe
+D:\code projects\3dTicTacToe\3dTicTacToe\obj\Debug\3dTicTacToe.pdb
